@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="fechar_e_voltar">Fechar e Voltar</string>
+    <string name="erro_login">Entre com os dados corretamente!</string>
+    <string name="nome">Nome</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="feminino">Feminino</string>
+    <string name="masculino">Masculino</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="gravar_dados">GRAVAR DADOS</string>
+    <string name="excluir_chaves">EXCLUIR CHAVES</string>
+    <string name="verificar_chaves">VERIFICAR CHAVES</string>
+    <string name="gravar_arquivo">GRAVAR ARQUIVO</string>
+    <string name="ler_arquivo">LER ARQUIVO</string>
+    <string name="dados_conta">FIAP NOTAS - Dados da Conta</string>
+
+
+</resources>
